@@ -1,1 +1,1 @@
-# goidp
+GO application the implements OpenID Connect
